@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Muli:400,300italic,300,400italic);
+/* @import url(https://fonts.googleapis.com/css?family=Muli:400,300italic,300,400italic);
 body,
 html {
   margin: 0;
@@ -92,7 +92,7 @@ h3 {
   height: 550px;
   width: 400px;
   background: #ccc;
-  background: url('/src/components/img/item-blue.jpg');
+  background: url('../img/item-blue.jpg');
   background-size: cover;
   box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.2);
   z-index: 10;
@@ -116,7 +116,7 @@ h3 {
   height:100%;
   opacity:0;
   filter: alpha(opacity=0);
- background:url('/src/components/img/item-black.jpg');
+ background:url('../img/item-black.jpg');
   background-size:cover;
   -webkit-transition:opacity .4s ease;
           transition:opacity .4s ease;
@@ -432,4 +432,4 @@ button:hover {
     height:100%;
     overflow:auto;
   }
-}
+} */
